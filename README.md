@@ -7,11 +7,9 @@ Milestone 3 - ETL Process with Airflow and Visualization using Kibana
 ```
 1. README.md - Penjelasan gambaran umum project
 2. P2M3_frans_joddy_sutjianto_DAG.py - File Python dengan list fungsi DAG yang akan dilakukan oleh Airflow
-3. P2M3_frans_joddy_sutjianto_DAG_graph.png - Gambaran urutan fungsi DAG yang akan dilakukan oleh Airflow
-4. P2M3_frans_joddy_sutjianto_data_raw.csv - Dataset raw yang diambil dari Kaggle melalui PostgreSQL
-5. P2M3_frans_joddy_sutjianto_data_clean.csv - Dataset yang sudah dibersihkan melalui fungsi DAG dalam Airflow
-6. P2M3_frans_joddy_sutjianto_ddl.txt - Query DDL dan DML SQL yang digunakan untuk memasukkan data ke dalam PostgreSQL
-7. P2M3_frans_joddy_sutjianto_GX.ipynb - Jupyter Notebook yang berisikan Data Validasi menggunakan Great Expectations
+3. P2M3_frans_joddy_sutjianto_data_raw.csv - Dataset raw yang diambil dari Kaggle melalui PostgreSQL
+4. P2M3_frans_joddy_sutjianto_data_clean.csv - Dataset yang sudah dibersihkan melalui fungsi DAG dalam Airflow
+5. P2M3_frans_joddy_sutjianto_GX.ipynb - Jupyter Notebook yang berisikan Data Validasi menggunakan Great Expectations
 ```
 
 ## Problem Background
